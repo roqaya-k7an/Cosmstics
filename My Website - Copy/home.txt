@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>COSMETICS</title>
+<style>
+div {
+  background-image: url('back.jpg');
+}
+h1 {
+  background-color:#e7717c;
+  color: white;
+padding: 30px;
+}
+
+h2 {
+  text-decoration: underline;}
+
+
+div {
+  text-decoration: verdana;}
+a:link, a:visited {
+  background-color: white;
+  color: #ed647e;
+  border: 10px solid ;
+padding: 10px;
+
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+div:hover, a:active {
+  background-color: none;
+}
+</style>
+</head>
+<body>
+<body style="background-color: black;">
+<h1 style="color: white">COSMETICS</h1>
+<div><a href="second.html">NEXT</a> <a href="third.html">NEXT</a> <a href="end.html">NEXT</a> <a href="https://raa018710.wixsite.com/website/shop"target="_blank">MY SHOP</a></div>
+<blockquote>
+<h2 style="color: #ff9999"> Cosmetics</h2>
+<em style="color:white"><img src="COSMETICSpppp.jpg"width="300" height="200" align="right" ><img src="rr.jpg" "width="300" height="200" align="right" ><img src="Beauty-Products0.jpg" "width="300" height="200" align="right" >
+Cosmetics, or makeup, are a variety of materials manufactured and natural 
+prepared in special ways with a view to using them for cosmetic purposes 
+and caring for different parts of the body enhancing the overall appearance,
+increasing the attractiveness,or improving the smell,which are many of 
+the most important:perfumes, nail polish, different creams, lipstick,
+Eye shadow, blush, kohl, pencils, hair dyes and hairspray,
+and the cosmetic industry have become a very popular market,
+and many international brands are very popular in this area,
+and are distinguished by their luxurious types.
+</em>
+</blockquote>
+<br>
+<br>
+<blockquote>
+<h2 style="color: #ff9999">The history of Cosmetics use</h2>
+<em style="color:white">
+Cosmetics have been in use for thousands of years. The absence of regulation of the manufacture and use of cosmetics has led to negative side effects, deformities, blindness, and even death through the ages. Examples are the prevalent use of ceruse (white lead), to cover the face during the Renaissance, and blindness caused by the mascara Lash Lure during the early 20th century.
+Egyptian men and women used makeup to enhance their appearance. They were very fond of eyeliner and eye-shadows in dark colors including blue,red, and black. Ancient Sumerian men and women were possibly the first to invent and wear lipstick, about 5,000 years ago.They crushed gemstones and used them to decorate their faces, mainly on the lips and around the eyes.Also around 3000 BC to 1500 BC,women in the ancient Indus Valley Civilization applied red tinted lipstick to their lips for face decoration.Ancient Egyptians extracted red dye from fucus-algin,0.01% iodine, and some bromine mannite, but this dye resulted in serious illness. Lipsticks with shimmering effects were initially made using a pearlescent substance found in fish scales, which are still used extensively today.Six thousand year old relics of the hollowed out tombs of the Ancient Egyptian pharaohs are discovered.
+<br>
+<br>
+According to one source, early major developments include:
+<ul style="list-style-type:square">
+<li style="color:white">Kohl used by ancient Egypt as a protectant of the eye.</li>
+<li style="color:white">Castor oil used by ancient Egypt as a protective balm.</li>
+<li style="color:white">Skin creams made of beeswax, olive oil, and rose water, described by Romans.</li>
+<li style="color:white">Vaseline and lanolin in the nineteenth century.</li>
+<br>
+<br>
+<img src="old.jpg"width="300" height="200" align="right" ><img src="oldcosmatics.jpg"width="300" height="200" align="right" >
+<img src="pr.jpg"width="300" height="200" align="right" ><img src="ee.jpg"width="300" height="200" align="right" >
+<br>
+<br>
+<blockquote>
+The Ancient Greeks also used cosmetics as the Ancient Romans did. Cosmetics are mentioned in the Old Testament, such as in 2 Kings 9:30, where Jezebel painted her eyelids—approximately 840 BC—and in the book of Esther, where beauty treatments are described.
+One of the most popular traditional Chinese medicines is the fungus Tremella fuciformis, used as a beauty product by women in China and Japan. The fungus reportedly increases moisture retention in the skin and prevents senile degradation of micro-blood vessels in the skin, reducing wrinkles and smoothing fine lines. Other anti-aging effects come from increasing the presence of superoxide dismutase in the brain and liver; it is an enzyme that acts as a potent antioxidant throughout the body, particularly in the skin. Tremella fuciformis is also known in Chinese medicine for nourishing the lungs.
+In the Middle Ages, it seemed completely natural for the face to be whitened and the cheeks rouged.
+During the sixteenth century, the personal attributes of the women who used makeup created a demand for the product among the upper class.
+Cosmetic use was frowned upon at many points in Western history. For example, in the 19th century, Queen Victoria publicly declared makeup improper, vulgar, and acceptable only for use by actors.
+Many women in the 19th century liked to be thought of as fragile ladies. They compared themselves to delicate flowers and emphasized their delicacy and femininity. They always aimed to look pale and interesting. Sometimes ladies discreetly used a little rouge on the cheeks and used "belladonna" to dilate their eyes so it would make them stand out more. Makeup was frowned upon in general, especially during the 1870s when social etiquette became more rigid. Teachers and clergywomen specifically were forbidden from the use of cosmetic products.
+During the 19th century, there was a high number of incidences of lead-poisoning because of the fashion for red and white lead makeup and powder. This led to swelling and inflammation of the eyes, weakened tooth enamel, and caused the skin to blacken. Heavy use was known to lead to death. However, in the second part of the 19th century, great advances were made in chemistry from the chemical fragrances that enabled a much easier production of cosmetic products.
+It was socially acceptable for actresses in the 1800s to use makeup, and famous beauties such as Sarah Bernhardt and Lillie Langtry could be powdered. Most cosmetic products available were still either chemically dubious or found in the kitchen amid food coloring, berries and beetroot.
+By the middle of the 20th century, cosmetics were in widespread use by women in nearly all industrial societies around the world. The cosmetic industry became a multibillion-dollar enterprise by the beginning of the 21st century.
+In 1968 at the feminist Miss America protest, protestors symbolically threw a number of feminine products into a "Freedom Trash Can". This included cosmetics, which were among items the protestors called "instruments of female torture"and accouterments of what they perceived to be enforced femininity.
+As of 2016, the world's largest cosmetics company is L'Oréal, which was founded by Eug?ne Schueller in 1909 as the French Harmless Hair Colouring Company (now owned by Liliane Bettencourt 26% and Nestlé 28%; the remaining 46% is traded publicly). The market was developed in the US during the 1910s by Elizabeth Arden, Helena Rubinstein, and Max Factor. These firms were joined by Revlon just before World War II and Estée Lauder just after.
+Although modern makeup has been traditionally used mainly by women, an increasing number of men are using cosmetics usually associated to women to enhance or cover their own facial features such as blemishes, dark circles, and so on. Cosmetics brands release products specially tailored for men, and men are increasingly using them.
+</em>
+<br>
+<br>
+</body>
+</html>

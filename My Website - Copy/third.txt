@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>COSMETICS</title>
+<style>
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+p {
+  background-color: white;
+  color:black;
+}
+input[type=text]:focus {
+  width: 100%;
+}
+
+h1 {
+  background-color:#e7717c;
+  color: white;
+padding: 30px;
+}
+
+div {
+  text-decoration: verdana;}
+a:link, a:visited {
+  background-color: #ed647e;
+  color: white;
+  border: 10px solid #ed647e;
+padding: 10px;
+
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+div:hover, a:active {
+  background-color: none;
+}
+
+h2 {
+  background-color: white;
+  color:black;
+padding: 10px;
+  width: 200px;
+  height: 20px;
+text-align: center;
+}
+
+p {
+  white-space: nowrap;
+}
+a:link {
+  color: #ff8080;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: pink;
+}
+a:active {
+  color: blue;
+}
+</style>
+</head>
+<body>
+<h1 style="color: white">COSMETICS</h1>
+<h5 style="color: #ff9999">
+ <a href="home.html" target="_blank"> HOME</a></h5>
+<form>
+  <input type="text" name="search" placeholder="Search...">
+</form>
+<br>
+<br>
+<body style="background-color: black;">
+<FONT SIZE="4">
+<em style="color:white">The make-up industry is one of the largest in the world: the cosmetic industries collect more than $ 200 billion worldwide each year. The make-up makes you look beautiful but also raises a lot of money and famous brands like Chanel, L'Oreal, and Mac collect millions of dollars annually from Selling cosmetics. According to a study, a woman may spend approximately $ 15,000 in her life to purchase cosmetics.</em>
+<br><br>#############
+<img src="history.jpg" alt="" style="width:500px;height:300px;"><img src="makeeup.jpg" alt="" style="width:500px;height:300px;">
+<br><br>
+<h4>
+<em style="color:white">When it comes to makeup, quality makes all the difference. So, if you want yours to look good, last all day, and be gentle on your skin, you must be careful about what products you use. Luckily, the industry has a mainstay of top brands that consistently deliver high-quality, top-notch products to satisfy your beauty needs. Stick to these best makeup brands and you’ll never regret another makeup purchase again.</em></h4>
+<br>################################################
+<img src="brand.jpg" alt="" style="width:500px;height:300px;">
+<br>
+<h2 style="color: #ed647e">L’Oreal</h2>
+<em style="color:white">When it comes to beauty, L’Oreal is a global leader. The French company offers women everywhere luxury and superior quality cosmetics at affordable prices. Whether you need foundation, eyeliner, lipstick or any other makeup product, you’ll never be disappointed with L’Oreal.</em>
+</FONT><
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://bit.ly/2G7jWx1"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="loreal.webp" alt="" style="width:500px;height:300px;">
+<br><br>
+<FONT SIZE="4">
+<br>
+<br>
+<h2 style="color: #ed647e">CHANEL</h2>
+<em style="color:white">You’ll feel as glamorous and sophisticated as Coco herself when wearing CHANEL makeup. The brand’s luxury beauty products are just as chic and stylish as the clothes that it creates. Although a single lipstick may set you back around AU$50, the quality of this cosmetics range is well worth the extra cost.</em>
+</FONT>
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://bit.ly/2MLDtn1"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="chanel.jpg" alt="" style="width:500px;height:300px;">
+<br><br>
+<FONT SIZE="4">
+<br>
+<br>
+<h2 style="color: #ed647e"> Dior</h2>
+<em style="color:white">Creativity, luxury, and excellence are all words associated with Dior and its cosmetics range. If you haven’t tried any of the brand’s products, be sure to do so immediately. The Dior Addict lipstick is a signature product for the label and a fantastic place to start.
+</em>
+</FONT>
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://aax-us-east.amazon-adsystem.com/x/c/Qhko7ASA7fqYa5YByLQX4z4AAAFxU_RDPgEAAAFKAcsgq2c/https://assoc-redirect.amazon.com/g/r/https://amzn.to/2ilWvqe?linkCode=w61&imprToken=v8y9pm-eoNLNLKaJeIFbkQ&slotNum=2"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="dior.jpeg" alt="" style="width:500px;height:300px;">
+<br><br>
+<FONT SIZE="4">
+<br>
+<br>
+<h2 style="color: #ed647e">Sephora</h2>
+<em style="color:white">When shopping for makeup, there’s no better place to go than Sephora. The beauty retailer offers an incredible range of products from top cosmetics brands, including its own in-house range, Sephora Collection.
+</em>
+</FONT>
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://bit.ly/2poc3dK"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="sephora.webp" alt="" style="width:500px;height:300px;">
+<br><br>
+<FONT SIZE="4">
+<br>
+<br>
+<h2 style="color: #ed647e">MAC</h2>
+<em style="color:white">Since its creation in 1984, MAC has been known as a global makeup artistry leader and the ultimate colour authority. Creativity, trendsetting, and diversity are all at the root of this business, which is famous for impressive collections and collaborations.
+</em>
+</FONT>
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://bit.ly/2pt9xmB"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="MACc.jpg" alt="" style="width:500px;height:300px;">
+<br><br>
+<FONT SIZE="4">
+<br>
+<br>
+<h2 style="color: #ed647e">Clinique</h2>
+<em style="color:white">Clinique has had the same mission since 1968 and continues to deliver on its endeavour to provide the highest quality and most effective products to enhance every skin type and tone. As part of this effort, the brand creates incredible makeup that is custom-fit to your complexion.
+</em>
+</FONT>
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://bit.ly/2MOkmZm"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="Cliniquee.jpg" alt="" style="width:500px;height:300px;">
+<br><br>
+<FONT SIZE="4">
+<br>
+<br>
+<h2 style="color: #ed647e">Estee Lauder</h2>
+<em style="color:white">Estee Lauder has been enhancing women’s beauty since 1946 and is now one of the world’s most renowned cosmetics companies. The brand’s products, which encompass makeup, skincare, and fragrance are innovative, technologically advanced and proven effective.
+</em>
+</FONT>
+<br><br>
+<FONT SIZE="4">
+<div><a href="https://bit.ly/2FSC1yE"><b>SHOP NOW<b></a></div></p></FONT>
+<img src="EsteeLauder.webp" alt="" style="width:500px;height:300px;">
+</body>
+</html>

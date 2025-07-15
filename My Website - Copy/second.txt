@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>COSMETICSss</title>
+<style>
+
+h1 {
+  background-color:#e7717c;
+  color: white;
+padding: 30px;
+}
+
+h2 {
+  text-decoration: underline;}
+
+p {
+  white-space: nowrap;
+}
+a:link {
+  color: #ff8080;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: pink;
+}
+a:active {
+  color: blue;
+}
+div {
+  text-decoration: verdana;}
+a:link, a:visited {
+  background-color: white;
+  color: #ed647e;
+  border: 10px solid ;
+padding: 10px;
+
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+div:hover, a:active {
+  background-color: none;
+}
+
+</style>
+</head>
+<body>
+<h1 style="color: white">COSMETICS</h1>
+<h4 style="color: #ff9999">
+<div><a href="home.html"> HOME</a></h4></div>
+<body style="background-color: black;">
+<h2 style="color: #ff9999">Tips for using cosmetics Some of these guidelines:</h2>
+<FONT SIZE="4">
+<ol type="1"><em>
+<li style="color:white">Avoid the use of poorly made and inexpensive cosmetics in which the use of chemical substances, such as:<br> ammonia,is frequently used, as it causes great harm to the body, especially for the skin, and it has devastating adverse effects,
+especially with the length of use.</li>
+<li style="color:white">Take care to use natural cosmetics as much as possible because they are less harmful.</li>
+<li style="color:white">Avoid sleeping before removing all traces of cosmetics from the body, whether they are used for the skin and skin, or for hair and eyes.</li>
+<li style="color:white">Use of premium quality cosmetics that are known for their quality.</li>
+<li style="color:white">Selecting types that are well suited for skin type, skin, and hair nature.</li>
+<li style="color:white">Not to exaggerate and increase the use of cosmetics, not the lesson in quantity, but rather how to use it.</li>
+<li style="color:white">Pick cosmetic colors that are suitable for skin and hair color.</li>
+<li style="color:white">Use special cosmetic removers that are free from alcohol and ammonia to avoid irritation or irritation of the skin.</li>
+<li style="color:white"> Applying cosmetics appropriately for the occasion, time and place,<br>so that products for work and teaching are used, cosmetics for weddings and family events, cosmetics for formal occasions, or the nature of the people present.</li>
+<li style="color:white">Preparing cosmetics depends mainly on a number of natural substances, such as:aloe vera, medicinal herbs, almonds, and essential oils extracted from plants and flowers, in addition to using some animal products, such as: animal fats, musk, amber, bee honey, and wax.</li>
+</em>
+</FONT>
+<br>
+<br>
+<P ALIGN ="center">
+<img src="cc.jpg" alt="" style="width:200px;height:200px;">
+<img src="vv.jpg" alt="" style="width:200px;height:200px;">
+<img src="zz.jpg" alt="" style="width:200px;height:200px;">
+<img src="ds.jpg" alt="" style="width:200px;height:200px;">
+<img src="expirationdates.jpg" alt="" style="width:200px;height:200px;">
+</p>
+<br>
+<FONT SIZE="4">
+<h2 style="color: #ff9999">The basic components of cosmetics</h2>
+<h3 style="color: #ff9999">The cosmetic formulas differ slightly from each other, and most of them contain a mixture of the following basic ingredients:</h3>
+<ul style="list-style-type:square"><img src="water.jpg" alt="" align="right" style="width:200px;height:200px;"><img src="Preservatives.jpg" alt="" align="right" style="width:200px;height:200px;">
+<em>
+<li style="color:white"><b>Water:</b>is the basis for almost all types of cosmetics, such as creams, lotions, cosmetics, deodorants, shampoos, and hair conditioners,They are used as solvents for other materials, to form emulsions for consistency, and the materials used in cosmetics are distilled and purified water, free from germs and contaminants.</li>
+<li style="color:white"><b>Emulsifiers:</b>can be defined as the components that help to protect various substances such as oil and water from separation, and many cosmetics depend on them.</li>
+<li style="color:white"><b>Preservatives:</b> It is an important component that is added to cosmetics to increase their shelf life, and to prevent the growth of microorganisms such as bacteria and fungi that may cause product spoilage and damage to the user, and most preservatives are soluble in water; because most microbes live in water, and materials can Preservatives used in cosmetics to be natural or synthetic, and preservatives used include paraben, benzyl alcohol, salicylic acid, and formaldehyde.</li>
+<img src="emulsifiers.jpg" alt="" align="right" style="width:200px;height:200px;"><img src="Emollients.jpg" alt="" align="right" style="width:200px;height:200px;">
+<li style="color:white"><b>Emollients:</b> soften the skin to prevent water loss, and are used in many cosmetics.</li>
+<li style="color:white"><b>Materials:</b> that are used as emollients: beeswax, olive oil, coconut oil, lanolin, petroleum jelly, mineral oil, glycerin, and zinc oxide.
+<li style="color:white"><b>Dyes or colourants:</b> colourants can be mineral components such as iron oxide, mica flakes, manganese, chromium oxide, and tar, and some plants, such as beet powder, or animals, such as scarlet insect that are often used in red lipstick, are also sourced.</li>
+<li style="color:white"><b>Fresheners:</b> They are chemicals, which may be natural or synthetic, added to cosmetics to give them an attractive scent. Capacitors: They are added to cosmetics to give them the required density, and they come in four chemical families: fatty capacitors, which include: cetyl alcohol, citric acid, carnauba wax, naturally produced capacitors, such as hydroxyethyl cellulose, guar gum, xanthan gum, gelatin, and capacitors Minerals like magnesium and aluminum silicate, silica, bentonite, and synthetic condensate are often used in creams and moisturizers.</li>
+</em>
+</FONT>
+<br>
+<br>
+<br>
+<br>
+<br>
+<FONT SIZE="4">
+<h2 style="color: #ff9999">Foundation cream components</h2>
+<em style="color:white"><img src="foundition.jpg"width="380" height="200" align="right">All foundation creams include three main groups of components: moisturizers, colourants, and filling materials. The powdery foundation does not contain water. Moisturizing foundations are made from water,
+oil or wax in addition to a filling material such as talc that ensures the smooth distribution of the foundation On the face,in addition to some colored materials such as iron oxide to match the base color of the skin color, the foundations may include other components to meet different skin needs,
+such as salicylic acid to treat acne. Dry skin foundation creams contain moisturizers such as glyceride, squalene, and oils such as jojoba oils, sesame oils, and avocado oils. The foundation for masking wrinkles contains both hyaluronic acid and is a strong moisturizer, peptides,
+and some plant preparations to fill the skin and hide lines The minute in it.</em>
+<br>
+<h2 style="color: #ff9999">Lipstick components</h2>
+<em style="color:white">Lipstick contains dozens of separate components, and these components are classified into basic categories: wax,<br> 
+oils and fats,emollients, colorants, and the types of candles used in lipstick: beeswax, paraffin, carnauba wax,<img src="lipstickk.jpg"width="400" height="200" align="right">
+and gives wax red The firm lips also give him the ability to form in the molds, and the oils used in making lipstick:
+ lanolin oil, castor oil, olive oil, cocoa butter, and the lipstick oils and fats give the required strength that is sufficient ductility to use with stability and lack of melting.
+Mattaria It is what makes lipstick more moisturizing to the lips, and of the tender materials: Vitamin E, aloe vera, and lipstick dyes are obtained from plants, animals, minerals or manufactured ingredients, and the lipstick may also contain other ingredients such as preservatives such as alcohol ,Or other ingredients such as sunscreen and perfumed.</em>
+<h2 style="color: #ff9999">Mascara components</h2>
+<em style="color:white"><img src="Mascara.jpg"width="400" height="160" align="right">The Mascara ingredients The mascara is made of iron oxide which is a metallic pigment, and the emulsion trithanolamine that gives the mascara the ability to stick to the eyelashes, in addition to wax and polymers that give a thin layer to intensify the eyelashes, and a preservative such as phenoxyethanol, to prevent contamination of the mascara with microbes, and waterproof formulas contain mascara On a component of silicon, such as cyclopentasiloxane, which makes this type of mascara difficult to remove.</em>
+</em>
+<h2 style="color: #ff9999">Eyeshadow components</h2><img src="ey.webp"width="400" height="160" align="right">
+<em style="color:white">Talc and mica are the two main components in eye shadows and are fillers, and eye shadows also include binders such as zinc citrate, and kaolin clay that bind the materials together and help to fix them on the skin, in addition to that,the eye shadow includes some other components such as bismuth oxycloride ,<br> Dimethicone, and iron oxide dyes, oils and wax are also added to creamy eye shades.</em>
+</FONT>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><FONT SIZE="4">
+<h2 style="color: #ff9999">Cosmetics hazards</h2>
+<img src="ma.jpg"width="400" height="200" align="left"><img src="make.jpg"width="400" height="200" align="right"><img src="skin.jpg"width="445" height="200" align="center">
+<ul style="list-style-type:square">
+<em>
+<br>
+<br>
+<br>
+<li style="color:white"><b>Chemicals</b> are the raw material for the cosmetic industry and these substances are known to have a high toxicity, so their use has a negative effect when they are the main ingredient in cosmetics used, and one of the most important of these negative effects is causing various skin infections and allergies, and their risk for cancer may extend in the long run As many studies have demonstrated the seriousness of some of the substances involved in makeup cosmetics.</li>
+<li style="color:white">In it, some<b> colorants and chemical stabilizers</b> are used with huge damages in which manufacturers aim to increase the viability of the product, regardless of the safety of its use in health.</li>
+<li style="color:white">Some cosmetics such as lipstick, in particular, may contain some <b>toxic substances</b> but in small proportions, especially lead, which is classified as a heavy metal, but some studies have found that the percentage it contains is negligible, in addition to that the effect should be cumulative, i.e. at intervals An extended period of time and not limited to a period of time, or that this effect appears during its direct use.</li>
+<br>
+<br>
+<br>
+<br>
+
+</FONT>
+</body>
+</html>

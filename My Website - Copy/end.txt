@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+<title>COSMETICS</title>
+<style>
+h1 {
+  background-color:#e7717c;
+  color: white;
+padding: 30px;
+}
+body {
+  background-image: url('tt.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+img {
+  position: absolute;
+  right: 0px;
+  botom: 0px;
+  z-index: -1;
+}
+div {
+  text-decoration: verdana;}
+a:link, a:visited {
+  background-color: white;
+  color: #ed647e;
+  border: 10px solid ;
+padding: 10px;
+
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+div:hover, a:active {
+  background-color: none;
+}
+</style>
+</head>
+<body>
+<h1 style="color: white">COSMETICS</h1>
+<div><a href="home.html"> HOME</a></h4></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style="background-color:#ff9999;color:black;padding:20px;">
+<h3 id="myHeader">keep smiling ,because life is a beautiful thing and there is so much to smile about.</h3>
+<button onclick="displayResult()">some else word to makes you smile</button>
+
+<script>
+function displayResult() {
+  document.getElementById("myHeader").innerHTML = "Worry less, smile more. Do not regret, just learn and grow.";
+}
+</script>
+</p>
+<div class="col-sm-6 col-lg-4 mb-4 mb-lg-0">
+										<span class="thumb-info thumb-info-hide-wrapper-bg">
+											<span class="thumb-info-wrapper">
+												
+													<img src="image/444.jpg" class="mw-100" alt="" style="left: 0px; top: 1px; width: 492px;" height="280">
+													<span class="thumb-info-title">
+														<span class="thumb-info-inner">SALHA SOUD AlANAZI</span>
+														<span class="thumb-info-type">201707851</span>
+													</span>
+											
+											</span>
+											
+										</span>
+									</div>
+
+
+</body>
+</html>
